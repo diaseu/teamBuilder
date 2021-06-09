@@ -46,6 +46,9 @@ This will generate a `index.html` file that will have the team roster.
 
 Run `npm run test` to run test
 
+Test Result: 
+<img src="https://i.imgur.com/15wmAo1.png" alt="Test Result">
+
 ## Credits
 
 <a href="https://getbootstrap.com/">Bootstrap</a> CSS Framework, <a href="https://nodejs.org/en/">Node.js</a>, <a href="https://www.npmjs.com/package/inquirer">Inquirer</a> npm and <a href="https://jestjs.io/">Jest.js</a> for testing
